@@ -25,7 +25,7 @@ class CampaignIndex extends Component {
   }
 
   render() {
-    return
+    return(
       <Layout>
         <div>
           <link
@@ -39,8 +39,9 @@ class CampaignIndex extends Component {
           icon = "add circle"
           primary = {true}
           />
-        </div>;
-       </Layout>;
-  }
+        </div>
+       </Layout>
+  );
+ }
 }
 export default CampaignIndex;
