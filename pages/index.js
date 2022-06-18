@@ -35,7 +35,10 @@ class CampaignIndex extends Component {
           icon = "add circle"
           primary = {true}
           />
+<<<<<<< HEAD
           {this.renderCampaigns()}
+=======
+>>>>>>> 7f5befb1a513b283c2c64ed58be5b3d30a9e430c
         </div>
        </Layout>
   );
