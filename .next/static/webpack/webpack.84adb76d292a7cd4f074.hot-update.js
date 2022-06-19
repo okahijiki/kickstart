@@ -10,7 +10,6 @@ self["webpackHotUpdate_N_E"]("webpack",{},
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ "use strict";
 /******/ 
-<<<<<<< HEAD
 /******/ /* webpack/runtime/amd options */
 /******/ !function() {
 /******/ 	__webpack_require__.amdO = {};
@@ -30,7 +29,7 @@ self["webpackHotUpdate_N_E"]("webpack",{},
 /******/ 
 /******/ /* webpack/runtime/getFullHash */
 /******/ !function() {
-/******/ 	__webpack_require__.h = function() { return "94e27085159dd3be9a6b"; }
+/******/ 	__webpack_require__.h = function() { return "963e3a25d99e6b8edcb3"; }
 /******/ }();
 /******/ 
 /******/ /* webpack/runtime/harmony module decorator */
@@ -46,11 +45,6 @@ self["webpackHotUpdate_N_E"]("webpack",{},
 /******/ 		});
 /******/ 		return module;
 /******/ 	};
-=======
-/******/ /* webpack/runtime/getFullHash */
-/******/ !function() {
-/******/ 	__webpack_require__.h = function() { return "3885b7cb0ba439b70ece"; }
->>>>>>> 7f5befb1a513b283c2c64ed58be5b3d30a9e430c
 /******/ }();
 /******/ 
 /******/ /* webpack/runtime/compat */

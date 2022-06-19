@@ -2,11 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-<<<<<<< HEAD
-  "/campaigns/new": "pages/campaigns/new.js",
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js"
-=======
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
-  "/": "pages/index.js"
->>>>>>> 7f5befb1a513b283c2c64ed58be5b3d30a9e430c
+  "/campaigns/new": "pages/campaigns/new.js"
 }

@@ -14,14 +14,6 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-<<<<<<< HEAD
-=======
-    "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
-    ],
->>>>>>> 7f5befb1a513b283c2c64ed58be5b3d30a9e430c
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -32,18 +24,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-<<<<<<< HEAD
     "/campaigns/new": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/campaigns/new.js"
-    ],
-=======
->>>>>>> 7f5befb1a513b283c2c64ed58be5b3d30a9e430c
-    "/next/dist/pages/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/next/dist/pages/_error.js"
     ]
   },
   "ampFirstPages": []
