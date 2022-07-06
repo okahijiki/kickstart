@@ -19,7 +19,7 @@ import Header from './Header';
 
       <Header />
       {props.children}
-      <h1>Im a footer</h1>
+  
     </Container>
 
     </div>
